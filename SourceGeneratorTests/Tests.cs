@@ -9,6 +9,7 @@ using SourceGenerator;
 using Xunit;
 using Xunit.Abstractions;
 
+//добавили тест
 namespace SourceGeneratorTests
 {
     public class Tests
